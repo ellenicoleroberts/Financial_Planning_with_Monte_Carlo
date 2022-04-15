@@ -1,4 +1,4 @@
-<img src= "images/monte.png" width="930" height="200">
+<img src= "images/mc.png" width="930" height="400">
 
 # Financial Planning
 
