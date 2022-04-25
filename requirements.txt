@@ -1,0 +1,5 @@
+pandas
+pathlib
+matplotlib-inline 
+python-dotenv
+alpaca-trade-api
