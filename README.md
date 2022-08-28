@@ -1,4 +1,4 @@
-<img src= "images/mc.png" width="930" height="200">
+<img src= "Images/mc.png" width="930" height="200">
 
 # Financial Planning
 This notebook creates two financial analysis tools: 
